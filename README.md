@@ -5,7 +5,11 @@ Leaflet.js for [Meteor](https://www.meteor.com/) apps.
 Version: `Leaflet 1.0 beta 1`
 
 ## Install
-To use add to your packages directory from github:
+
+    $ cd to/my/meteor/project
+    $ meteor add enam:meteor-leaflet
+
+or (if you want to modify the code):
 
     $ cd to/my/meteor/project
     $ mkdir packages # ensure that packages folder exists
