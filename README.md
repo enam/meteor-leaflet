@@ -1,4 +1,4 @@
-# enam:meteor-leaflet
+# nicholasm:meteor-leaflet
 
 Leaflet.js for [Meteor](https://www.meteor.com/) apps.
 
