@@ -16,9 +16,7 @@ Package.onUse(function(api) {
 
 Package.onTest(function(api) {
   api.use('tinytest');
-  api.use('nicholasm:meteor-leaflet');
   api.use(['deps', 'underscore'], ['client']);
   api.addFiles(['meteor-leaflet.js', 'meteor-leaflet.css'], ['client']);
-  api.addFiles('meteor-leaflet-tests.js');
   api.export('Leaflet', ['client']);
 });
