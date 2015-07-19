@@ -7,14 +7,14 @@ Version: `Leaflet 1.0 beta 1`
 ## Install
 
     $ cd to/my/meteor/project
-    $ meteor add enam:meteor-leaflet
+    $ meteor add nicholasm:meteor-leaflet
 
 or (if you want to modify the code):
 
     $ cd to/my/meteor/project
     $ mkdir packages # ensure that packages folder exists
-    $ git clone https://github.com/enam/meteor-leaflet.git packages/enam:meteor-leaflet
-    $ meteor add enam:meteor-leaflet
+    $ git clone https://github.com/enam/meteor-leaflet.git packages/nicholasm:meteor-leaflet
+    $ meteor add nicholasm:meteor-leaflet
 
 ## Supported plugins
 
