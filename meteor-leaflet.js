@@ -1,7 +1,7 @@
 var FILES = {
   leaflet: {
-    js:   ['http://cdn.leafletjs.com/leaflet/v1.0.0-beta.2/leaflet.css'],
-    css:  ['http://cdn.leafletjs.com/leaflet/v1.0.0-beta.2/leaflet.js'],
+    js:   ['http://cdn.leafletjs.com/leaflet/v1.0.0-beta.2/leaflet.js'],
+    css:  ['http://cdn.leafletjs.com/leaflet/v1.0.0-beta.2/leaflet.css'],
   }
 };
 
